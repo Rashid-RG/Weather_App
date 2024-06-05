@@ -39,5 +39,8 @@ This is a description of my project.
 
 ## Out Put
 
-![Screenshot](https://github.com/Rashid-RG/Weather_App/raw/main/Screenshot%202024-06-05%20073846.png)
+![Screenshot](https://github.com/Rashid-RG/Weather_App/blob/main/Screenshot%202024-06-05%20213045.png?raw=true)
+
+
+
 
