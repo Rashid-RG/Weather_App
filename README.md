@@ -27,7 +27,7 @@ WeatherApp is a simple Java application that provides weather information based 
 - This application uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data.
 - It also utilizes the [JSON.simple](https://code.google.com/archive/p/json-simple/) library for parsing JSON responses.
 
-##v My Project
+## My Project
 
 This is a description of my project.
 
